@@ -6,7 +6,6 @@ Unity, C#을 사용하여 개발<br>
 개발 기간: 2023/05 ~ 2023/06
 
 # 프로젝트 설명
-<img src="" width="480" height="270"><br>
 <img src="https://github.com/user-attachments/assets/53f5b1f4-0a4d-4632-8b58-5310710e60f9" width="480" height="270"><br>
 <img src="https://github.com/user-attachments/assets/013160d9-5659-4544-a815-bbf38a846465" width="480" height="270"><br>
 <img src="https://github.com/user-attachments/assets/3e509ce2-063b-45e0-a746-a927169900f8" width="480" height="270"><br>
