@@ -1,0 +1,14 @@
+Index,Tag,X,Y,Delay,Period
+0,Player,0,3,0,0
+1,GroundTop,0,2,0,0
+2,GroundTop,0,-4,0,0
+3,Thorn,0,0.5,0,0
+4,Thorn,0,-1,0,0
+5,Thorn,0,-2.5,0,0
+6,JumpItem,-0.5,0.5,0,0
+7,JumpItem,0.5,-1,0,0
+8,JumpItem,-0.5,-2.5,0,0
+9,Star,0,1,0,0
+10,Star,0,-0.5,0,0
+11,Star,0,-2,0,0
+12,Star,0,-3.5,0,0

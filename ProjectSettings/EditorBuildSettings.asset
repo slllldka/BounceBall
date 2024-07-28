@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: e252c99f11454b54591f40e92ceaf0a6
+  - enabled: 1
+    path: Assets/Scenes/Select Stage.unity
+    guid: 740fed8e3e4803e4fba6673983172121
+  - enabled: 1
+    path: Assets/Scenes/Show Stage.unity
+    guid: 5f148208e103398448fb7ebfb750114d
+  - enabled: 0
+    path: Assets/Scenes/MakeCSV Scene.unity
+    guid: f2e7574de2642184689bb8e0db17bb88
+  m_configObjects: {}

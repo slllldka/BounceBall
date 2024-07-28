@@ -1,0 +1,15 @@
+Index,Tag,X,Y,Delay,Period
+0,Player,-2,-1,0,0
+1,GroundTop,-2,-2,0,0
+2,GroundTop,-4.5,-1,0,0
+3,GroundTop,-5.5,-0.5,0,0
+4,GroundTop,-6,-0.5,0,0
+5,CrackableGround,-0.5,-2,0,0
+6,CrackableGround,-1,-0.5,0,0
+7,CrackableGround,-0.5,-0.5,0,0
+8,CrackableGround,0,-0.5,0,0
+9,Jump,1,-2,0,0
+10,LeftMover,2.5,-0.5,0,0
+11,FallingRock,-1,1.5,0.5,1.5
+12,FallingRock,0,1.5,0.5,1.5
+13,Star,-6,0,0,0

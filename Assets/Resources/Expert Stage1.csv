@@ -1,0 +1,6 @@
+Index,Tag,X,Y,Delay,Period
+0,Player,-2,0,0,0
+1,GroundTop,-2,-1,0,0
+2,GroundTop,0,-1,0,0
+3,GroundTop,2,-1,0,0
+4,Star,2,0,0,0
