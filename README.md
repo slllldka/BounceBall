@@ -6,7 +6,7 @@ Unity, C#을 사용하여 개발<br>
 개발 기간: 2023/05 ~ 2023/06
 
 # 프로젝트 설명
-<img src="https://github.com/user-attachments/assets/53f5b1f4-0a4d-4632-8b58-5310710e60f9" width="640" height="360"><br>
+<img src="https://github.com/user-attachments/assets/3b8d432c-751e-4340-90b4-a39ece8d543d" width="640" height="360"><br>
 <img src="https://github.com/user-attachments/assets/013160d9-5659-4544-a815-bbf38a846465" width="640" height="360"><br>
 <img src="https://github.com/user-attachments/assets/3e509ce2-063b-45e0-a746-a927169900f8" width="640" height="360"><br>
 <img src="https://github.com/user-attachments/assets/6adecbc8-624f-447e-a9ac-d32e4e7dd14e" width="640" height="360"><br>
@@ -19,7 +19,7 @@ Unity, C#을 사용하여 개발<br>
 <img src="https://github.com/user-attachments/assets/a5f60f3e-d697-424a-af93-86d35fd805ae" width="640" height="360"><br>
 <img src="https://github.com/user-attachments/assets/e2b8e7be-f8d4-4d6c-903c-c9daeb9e9667" width="640" height="360"><br>
 <img src="https://github.com/user-attachments/assets/095a03af-f6f6-431e-8f21-ffacf13ddc56" width="640" height="360"><br>
-<img src="https://github.com/user-attachments/assets/da2ffdf9-f7c0-4f06-9b06-c8625473a060" width="640" height="360"><br>
+<img src="https://github.com/user-attachments/assets/aaec1b35-8609-46e5-b738-043abf3817fe" width="640" height="360"><br>
 <img src="https://github.com/user-attachments/assets/5dbdce1a-c4f7-42d0-b00a-69bf285126fc" width="640" height="360"><br>
 <img src="https://github.com/user-attachments/assets/ae762ac7-84d0-4038-9ed0-d99f664e24b0" width="640" height="360"><br>
 <img src="https://github.com/user-attachments/assets/71d93158-5475-463d-b4b7-9a4d44c66e44" width="640" height="360"><br>
