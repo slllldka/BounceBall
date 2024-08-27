@@ -5,6 +5,9 @@ Unity, C#을 사용하여 개발<br>
 
 개발 기간: 2023/05 ~ 2023/06
 
+# 게임 영상
+https://github.com/user-attachments/assets/b3396469-39c4-4e38-9f27-d74a92c2b452
+
 # 프로젝트 설명
 <img src="https://github.com/user-attachments/assets/3b8d432c-751e-4340-90b4-a39ece8d543d" width="640" height="360"><br>
 <img src="https://github.com/user-attachments/assets/013160d9-5659-4544-a815-bbf38a846465" width="640" height="360"><br>
